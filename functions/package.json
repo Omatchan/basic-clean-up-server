@@ -18,7 +18,7 @@
     "firebase-admin": "^8.0.0",
     "firebase-functions": "^3.0.0",
     "firebase-functions-test": "^0.1.6",
-    "sanitize-html": "^1.20.1"
+    "sanitize-html": "^2.3.2"
   },
   "devDependencies": {
     "tslint": "^5.12.0",
